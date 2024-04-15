@@ -1,10 +1,7 @@
-﻿
-// See https://aka.ms/new-console-template for more information
-
+﻿// See https://aka.ms/new-console-template for more information
 //C# OOP
 
 //Task 1:
-
 public class Student
 {
     // Properties
