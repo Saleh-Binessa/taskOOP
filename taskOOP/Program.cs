@@ -24,7 +24,6 @@ public class Student
     // Method to print the student's summary
     public void PrintSummary()
     {
-        Console.WriteLine("Student information:\n");
         Console.WriteLine($"Student Name:\t {Name} \nMajor:\t\t {Major} \nGPA:\t\t {GPA:F3}"); // F3 means format GPA to 2 decimal places
     }
 }
